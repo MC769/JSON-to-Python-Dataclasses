@@ -142,7 +142,7 @@ user_dict = user.to_dict()
 
 ### Run Locally
 ```bash
-git clone https://github.com/MC769/json2p
+[git clone https://github.com/MC769/json2p](https://github.com/MC769/JSON-to-Python-Dataclasses.git)
 cd json2py
 python json2py.py examples/sample.json
 ```
